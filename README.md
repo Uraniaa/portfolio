@@ -14,7 +14,7 @@ https://jekyllrb.com/docs/themes/
 
 
 ## Embed a video
-<iframe src="//player.bilibili.com/player.html?aid=904886334&bvid=BV1mP4y1e7TL&cid=955796684&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe> <width=180/>
+<iframe src="//player.bilibili.com/player.html?aid=904886334&bvid=BV1mP4y1e7TL&cid=955796684&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=180/> </iframe> 
 
 ## Embed a song
 
