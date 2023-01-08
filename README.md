@@ -5,7 +5,7 @@ create a website demo
 
 ## Find your theme
 
-1.Basix options:
+1. Basix options:
 https://pages.github.com/themes
 
 
@@ -13,5 +13,14 @@ https://pages.github.com/themes
 https://jekyllrb.com/docs/themes/
 
 
-3.insert a video
-<iframe src="//player.bilibili.com/player.html?aid=564543997&bvid=BV1Jv4y1B7RS&cid=946951125&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+## Embed a video
+<iframe src="//player.bilibili.com/player.html?aid=904886334&bvid=BV1mP4y1e7TL&cid=955796684&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+## Embed a song
+
+
+## Insert a inmage
+
+
+## Markdown guide
+
