@@ -19,7 +19,7 @@ https://jekyllrb.com/docs/themes/
 ## Embed a song
 
 
-## Insert a inmage
+## Insert a image
 
 
 ## Markdown guide
